@@ -1,0 +1,1 @@
+The objective is to compute and plot wind roses for mean wind speed, turbulence intensity and probability of occurrence for the data in wind_stats.csv. The roses will have 12 sector as per standard.
