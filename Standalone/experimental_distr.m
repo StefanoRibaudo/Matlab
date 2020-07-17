@@ -1,4 +1,6 @@
 function [distr,central_bin_value]=experimental_distr(data,nbins,minvalue,maxvalue)
+%Outputs an experimental pdf given values in data.
+
 %INPUT:
 %data = any array of input data
 %nbins = number of bins for the experimental distribution
